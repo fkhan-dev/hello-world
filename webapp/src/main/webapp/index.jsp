@@ -7,3 +7,6 @@
 <h4> Deploying using Ansible </h4>
 
 <h4> This container is deploying using Jenkins CI/CD pipline </h4>
+
+<h4> Thanks for watching </h4>
+
