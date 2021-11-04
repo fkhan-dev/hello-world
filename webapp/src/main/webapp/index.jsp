@@ -10,5 +10,4 @@
 
 <h4>> DevOPS Simple CI/CD pipeline </h4>
 
-<h4> Hello Selo </h4>
 
